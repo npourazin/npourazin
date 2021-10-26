@@ -2,10 +2,11 @@
 
 My name is **Niki Pourazin**. 
 
-- 📚 I'm currently studying CE @ [Amirkabir University of Technology](http://aut.ac.ir)
+- 📚👩‍🎓 I'm currently studying CE @ [Amirkabir University of Technology](http://aut.ac.ir)
 
-- ⚡ I like to travel, read books and watch movies!
+- 📖✈️ I like to travel, read books and watch movies!
 
+- 🔗 [My personal page](https://npourazin.github.io/)
 <!--
 **npourazin/npourazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
