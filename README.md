@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Niki Pourazin**. 
+
+📚 I'm currently studying at Amirkabir University of Technology
+⚡ I like to travel, read books and watch movies!
+
 <!--
 **npourazin/npourazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
