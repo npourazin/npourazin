@@ -2,7 +2,7 @@
 
 My name is **Niki Pourazin**. 
 
-- 📚 I'm currently studying at Amirkabir University of Technology
+- 📚 I'm currently studying CE @ [Amirkabir University of Technology](http://aut.ac.ir)
 
 - ⚡ I like to travel, read books and watch movies!
 
